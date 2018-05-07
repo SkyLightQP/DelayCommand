@@ -1,0 +1,7 @@
+name: DelayCommand
+main: kr.skylightqp.delaycommand.DelayCommand
+version: 1.0
+
+commands:
+  delaycommand:
+    description: delaycommand
